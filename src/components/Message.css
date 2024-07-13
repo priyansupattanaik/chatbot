@@ -1,0 +1,17 @@
+/* src/components/Message.css */
+.message {
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 75%;
+}
+
+.message.user {
+  background-color: #eafadd;
+  align-self: flex-end;
+}
+
+.message.ai {
+  background-color: #f1f0f0;
+  align-self: flex-start;
+}
