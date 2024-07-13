@@ -125,10 +125,11 @@ const Main = () => {
           </div>
           <div className="bottom-info">
             <p>
-              Aura AI responses may occasionally include inaccuracies,
-              especially regarding individuals, so it's advisable to verify
-              information independently. Your privacy are our utmost priority.
+              Aura AI responses may occasionally include inaccuracies, so it's
+              advisable to verify information independently. Your privacy are
+              our utmost priority.
             </p>
+            &copy; 2024 Priyansu Pattanaik. All rights reserved.
           </div>
         </div>
       </div>
